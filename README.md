@@ -1,6 +1,9 @@
 # Healthcare analytic II LOS
 Patient length of stay prediction using RandomForest and CatBoost
 
+1. 61070505202 Kittapat Ratanaphupha
+2. 61070505228 Napong Leelasithorn
+
 <b>Source: Healthcare Analytic II via Kaggle </b>
 | Column  | Description |
 | --------| :----------:|
