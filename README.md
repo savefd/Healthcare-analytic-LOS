@@ -72,7 +72,8 @@ CatBoostClassifier
 2. Tuning: Depth, iterations, learning rate
 
 ### 5. Evaluation
-
+![alt text](https://github.com/savefd/Healthcare-analytic-LOS/blob/main/Picture1.png)
+![alt text](https://github.com/savefd/Healthcare-analytic-LOS/blob/main/image.png)
 
 
 
