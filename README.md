@@ -2,11 +2,19 @@
 *Patient length of stay prediction using RandomForest and CatBoost,<br>
 CPE 352, Data Sciences, November-December 2020*
 
+**Editors**
+
 1. Kittapat Ratanaphupha
 2. Napong Leelasithorn
 3. Temsiri Cheuakasem
 
-<b>Source: Healthcare Analytic II via Kaggle </b>
+## Dataset
+Healthcare Analytics II
+
+Kaggle: https://www.kaggle.com/nehaprabhavalkar/av-healthcare-analytics-ii
+
+with metadata like this
+
 | Column  | Description |
 | --------| :----------:|
 | case_id | - |
