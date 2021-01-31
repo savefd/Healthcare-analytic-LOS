@@ -1,8 +1,11 @@
 # Healthcare analytic II LOS
-Patient length of stay prediction using RandomForest and CatBoost
+*Patient length of stay prediction using RandomForest and CatBoost,
+
+CPE 352, Data Sciences, November-December 2020
 
 1. Kittapat Ratanaphupha
 2. Napong Leelasithorn
+3. Temsiri Cheuakasem
 
 <b>Source: Healthcare Analytic II via Kaggle </b>
 | Column  | Description |
