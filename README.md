@@ -49,7 +49,7 @@ Hospital_Code can explain all the other variable that included "Hospital" Ex. Ci
 Age column is distributed as Normal and Admission_deposit column is right-skewed.
 <h3>3. Feature Engineering </h3>
 
-Ordinal or Label encoder
+Using Ordinal or Label encoder
 1. Stay
 2. Age
 3. Severity of Illness
